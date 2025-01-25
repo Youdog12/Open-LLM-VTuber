@@ -16,7 +16,7 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yi.ting)
 [![](https://dcbadge.limes.pink/api/server/3UDA8YFDXx)](https://discord.gg/3UDA8YFDXx)
 
-English README | [中文README](https://github.com/t41372/Open-LLM-VTuber/blob/main/README.CN.md)
+[English README](https://github.com/t41372/Open-LLM-VTuber/blob/main/README.CN.md) | [中文 README](https://github.com/t41372/Open-LLM-VTuber/blob/main/README.CN.md)
 
 [Documentation](https://open-llm-vtuber.github.io/docs/quick-start)
 
@@ -27,7 +27,7 @@ English README | [中文README](https://github.com/t41372/Open-LLM-VTuber/blob/m
 >
 > User Survey: https://forms.gle/w6Y6PiHTZr1nzbtWA
 >
-> 调查问卷(中文): https://wj.qq.com/s2/16150415/f50a/
+> 调查问卷 (中文): https://wj.qq.com/s2/16150415/f50a/
 
 
 
